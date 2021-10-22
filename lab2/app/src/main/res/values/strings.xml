@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="fio">Gordeychuk Nikita Sergeevich</string>
+    <string name="specialization">Mobile Software Development.</string>
+    <string name="group">9 group</string>
+    <string name="view">Unknown</string>
+    <string name="landscape_view">landscape view</string>
+    <string name="portrait_view">portrait view</string>
+</resources>
